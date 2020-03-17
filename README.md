@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Yellow Sun 👋</h1>
   </a>
   <a href="https://github.com/hhs0001/yellowsun/blob/master/LICENSE" target="_blank">
-    <img alt="License: The Unlicense" src="https://img.shields.io/github/license/hhs0001/Yellow Sun" />
+    <img alt="License: The Unlicense" src="https://img.shields.io/badge/license-The%20Unlicense-green" />
   </a>
 </p>
 
