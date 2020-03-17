@@ -18,29 +18,6 @@
 
 ### 🏠 [Homepage](https://hhs0001.github.io/yellowsun/)
 
-## Prerequisites
-
-- npm >=5.5.0
-- node >=9.3.0
-
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Yellow Sun Team**
@@ -48,18 +25,5 @@ npm run test
 * Website: Heitor/Ana
 * Github: [@hhs0001](https://github.com/hhs0001)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
 Copyright © 2020 [Yellow Sun Team](https://github.com/hhs0001).<br />
-This project is [The Unlicense](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This project is [The Unlicense](https://github.com/hhs0001/yellowsun/blob/master/LICENSE) licensed.
